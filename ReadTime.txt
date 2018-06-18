@@ -1,0 +1,1 @@
+It took -2.24639892578 seconds to read the time domain data

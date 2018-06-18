@@ -1,0 +1,1 @@
+It took -0.343193054199 seconds to write the Frequency domain data
